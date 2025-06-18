@@ -1,0 +1,12 @@
+# Ignorar archivos temporales de editores
+*.tmp
+*.bak
+*.swp
+
+# Ignorar configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas personales
+.vscode/
+.env

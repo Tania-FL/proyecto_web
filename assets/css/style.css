@@ -1,3 +1,6 @@
+body {
+    background-color: lightblue;
+}
 /*Cambia el color de fondo de la pagina en general*/
 .content{
     background-color: white;
